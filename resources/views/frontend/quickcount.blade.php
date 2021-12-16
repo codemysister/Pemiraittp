@@ -29,6 +29,9 @@
                                 <div class="progress-bar paslon-{{ $calon->id }}" role="progressbar" style="width: 0%;"
                                     aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">0%</div>
                             </div>
+                            <div>
+                                <p class="text-muted"></p>
+                            </div>
                         </div>
                     @endforeach
 
